@@ -152,4 +152,4 @@ Private Score : 전체 테스트 데이터 중 100%
 ---
 
 Data Download : https://drive.google.com/file/d/1Y3sgoAhqo4nItjyHZI7LhX50ol5D9TKn/view
-추가로 가능할거 같은 링크 : https://drive.usercontent.google.com/download?id=1Y3sgoAhqo4nItjyHZI7LhX50ol5D9TKn&export=download&authuser=0
+
