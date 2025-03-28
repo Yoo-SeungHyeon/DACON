@@ -4,7 +4,7 @@
 # 용량이 큰 Data들
 *.zip
 data
-
+venv
 
 ### CUDA ###
 *.i
