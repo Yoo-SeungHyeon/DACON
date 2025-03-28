@@ -158,3 +158,7 @@ Original 제공 데이터
 2. all_test.csv(1.45GB) : https://drive.google.com/file/d/1f8oWtiNPiWpSGOIPzAsydEJPMWnDhMtP/view?usp=drive_link
 3. numeric_train.csv(5.08GB) : https://drive.google.com/file/d/1XfpeVb6BousAOaGG5OdX0FUhx-AGHDTw/view?usp=drive_link
 4. important_train.csv(4.32GB) : https://drive.google.com/file/d/1PIj0Gzbqv6XEATrHVB8Y__aPsB73uYVi/view?usp=drive_link
+5. clean_data(directory) : https://drive.google.com/drive/folders/1qvrVZGMWq_qZ8VRjdJ7dFO-KuP2PU-ET?usp=drive_link
+
+크기가 큰 모델
+1. XGBOOST_081.pkl : https://drive.google.com/file/d/1smlBrMzfkFgOWPsLYfdSMwsXzAmyZI01/view?usp=drive_link
